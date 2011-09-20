@@ -9,6 +9,8 @@ To test:
 Now autocompletion will be done on each method of each class, however
 methods are only detectd at startup.
 
-If anyone knowing the RM extension API may help getting this realtime...
+Note that only methods of classes in 'lib' are added.
 
--- Moreno and Team Iguana
+If anyone knowing the RM extension API may help getting this to realtime loading of methods... :-)
+
+-- Team Iguana
