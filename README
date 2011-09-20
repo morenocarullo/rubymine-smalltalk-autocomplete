@@ -1,0 +1,14 @@
+A proof-of-concept of more helpful autocomplete for RubyMine.
+
+To test:
+
+1) copy this folder to the root of your Ruby project
+
+2) add rubymine/scripts to Settings -> Extensions in RubyMine
+
+Now autocompletion will be done on each method of each class, however
+methods are only detectd at startup.
+
+If anyone knowing the RM extension API may help getting this realtime...
+
+-- Moreno and Team Iguana
